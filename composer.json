@@ -1,5 +1,5 @@
 {
-  "name": "BardiaModule/product-attribute",
+  "name": "bardia-module/product-attribute",
   "description": "N/A",
   "type": "magento2-module",
   "autoload": {
