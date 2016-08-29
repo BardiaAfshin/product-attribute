@@ -6,7 +6,7 @@
  * Time: 11:22 AM
  */
 
-namespace Magento\ProductAttribute\Setup;
+namespace BardiaModule\ProductAttribute\Setup;
 
 use Magento\Eav\Setup\EavSetup;
 use Magento\Eav\Setup\EavSetupFactory;

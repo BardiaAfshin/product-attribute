@@ -15,7 +15,7 @@
       ]
     },
     "psr-4": {
-      "Magento\\ProductAttribute\\": ""
+      "BardiaModule\\ProductAttribute\\": ""
     }
   },
   "minimum-stability": "dev"

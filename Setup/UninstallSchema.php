@@ -6,7 +6,7 @@
  * Time: 7:48 PM
  */
 
-namespace Magento\ProductAttribute\Setup;
+namespace BardiaModule\ProductAttribute\Setup;
 
 use Magento\Eav\Setup\EavSetupFactory;
 use Magento\Framework\Setup\SchemaSetupInterface;
