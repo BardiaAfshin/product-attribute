@@ -1,0 +1,6 @@
+<config>
+    <extension_attributes for="Magento\Catalog\Api\Data\ProductInterface">
+        <attribute code="cart_message" type="string">
+        </attribute>
+    </extension_attributes>
+</config>
