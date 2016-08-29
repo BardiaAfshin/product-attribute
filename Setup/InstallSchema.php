@@ -1,5 +1,5 @@
 <?php
-namespace BardiaModule\ProductAttribute\Setup;
+namespace Magento\ProductAttribute\Setup;
 
 use Magento\Eav\Setup\EavSetup;
 use Magento\Framework\Setup\InstallSchemaInterface;

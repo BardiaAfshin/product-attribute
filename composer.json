@@ -1,11 +1,19 @@
 {
-  "name": "bardiamodule/product-attribute",
+  "name": "magento/product-attribute",
   "description": "N/A",
   "type": "magento2-module",
   "autoload": {
     "files": [
       "registration.php"
     ],
+    "extra": {
+      "map": [
+        [
+          "*",
+          "Magento/ProductAttribute"
+        ]
+      ]
+    },
     "psr-4": {
       "Magento\\ProductAttribute\\": ""
     }
