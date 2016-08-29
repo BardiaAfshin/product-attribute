@@ -10,5 +10,5 @@
       "BardiaModule\\ProductAttribute\\": ""
     }
   },
-  "minimum-stability": "alpha"
+  "minimum-stability": "dev"
 }
