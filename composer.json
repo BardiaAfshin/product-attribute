@@ -7,7 +7,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "BardiaModule\\ProductAttribute\\": ""
+      "Magento\\ProductAttribute\\": ""
     }
   },
   "minimum-stability": "dev"
